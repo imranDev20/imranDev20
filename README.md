@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Imran Kabir</h1>
+<h3 align="center">Front-End Web Developer</h3>
+
+- 🌱 I’m currently learning **Next.js**
+
+- 👨‍💻 All of my projects are available at [https://imrankabir.netlify.app/](https://imrankabir.netlify.app/)
+
+- 📫 How to reach me **imran.kabir022@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imrankabir97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrankabir97" height="30" width="40" /></a>
