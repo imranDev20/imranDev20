@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Imran Kabir</h1>
-<h3 align="center">Front-End Web Developer</h3>
+<h1 align="center">👋 Hi, I'm Imran Kabir</h1>
+<h3 align="center">🚀 Front-End Web Developer</h3>
 
-- 🌱 I’m currently learning **Next.js**
+🌱 Currently, I'm on an exciting journey with **Next.js** and **Django**.
 
-- 👨‍💻 All of my projects are available at [https://imrankabir.netlify.app/](https://imrankabir.netlify.app/)
+👨‍💻 Explore my projects at [imrankabir.netlify.app](https://imrankabir.netlify.app/).
 
-- 📫 How to reach me **imran.kabir022@gmail.com**
+📫 Feel free to reach out to me at **imran.kabir022@gmail.com** for collaboration or just to say hi!
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://twitter.com/imrankabir97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrankabir97" height="30" width="40" /></a>
-<a href="https://fb.com/imrankabir97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imrankabir97" height="30" width="40" /></a>
+  <a href="https://twitter.com/imrankabir97" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrankabir97" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/imrankabir97" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imrankabir97" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I Love to Work With:</h3>
 
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -49,17 +53,6 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a>  
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrandev20&show_icons=true&locale=en&layout=compact" alt="imrandev20" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrandev20&show_icons=true&locale=en&layout=compact" alt="imrandev20" /></p>
