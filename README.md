@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Front-End Developer with a keen eye for creating engaging user experiences. Currently exploring the endless possibilities of **Three.js** while mastering **Next.js** and **Django** to build robust web applications.
+I'm a passionate Front-End Developer with a keen eye for creating engaging user experiences. Currently exploring the endless possibilities of **Three.js** to build immersive 3D web experiences.
 
 - 🔭 Working on innovative web projects using modern technologies
 - 🌱 Learning Three.js to create immersive 3D experiences
@@ -42,8 +42,6 @@ I'm a passionate Front-End Developer with a keen eye for creating engaging user 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
 
