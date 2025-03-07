@@ -15,7 +15,7 @@
 
 I'm a passionate Front-End Developer with a keen eye for creating engaging user experiences. Currently exploring the endless possibilities of **Three.js** to build immersive 3D web experiences.
 
-I am a founding member of **Spiderbyte IT Limited**, a technology company based in **Barisal**, dedicated to delivering innovative web and mobile solutions.
+I am a founding member of **Spiderbyte IT Limited**, a skilled team based in **Barisal**, focused on building innovative web and mobile solutions.
 
 - 🔭 Working on innovative web projects using modern technologies
 - 🌱 Learning Three.js to create immersive 3D experiences
