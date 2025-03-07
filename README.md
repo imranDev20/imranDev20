@@ -15,6 +15,8 @@
 
 I'm a passionate Front-End Developer with a keen eye for creating engaging user experiences. Currently exploring the endless possibilities of **Three.js** to build immersive 3D web experiences.
 
+I work at **Spiderbyte IT Limited**, a company based in **Barisal**, where we develop **websites, admin panels, web applications (CRM, ERP), WordPress websites, and Android/iOS applications**.
+
 - 🔭 Working on innovative web projects using modern technologies
 - 🌱 Learning Three.js to create immersive 3D experiences
 - 💡 Always excited to collaborate on creative projects
